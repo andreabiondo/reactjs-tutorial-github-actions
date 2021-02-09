@@ -17,7 +17,7 @@ function App() {
 function HomePage() {
   return (
     <div>
-      <h1>Home Page Copsha</h1>
+      <h1>Home Page Andrea</h1>
     </div>
   )
 }
